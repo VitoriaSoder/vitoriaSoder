@@ -32,7 +32,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 Se você quiser entrar em contato, sinta-se à vontade para me enviar uma mensagem ou conectar-se comigo através das redes sociais.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriasoder)
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VitoriaSoder/VitoriaSoder/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
