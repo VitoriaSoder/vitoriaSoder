@@ -1,7 +1,5 @@
 # Olá! 👋 Bem-vindo ao meu GitHub!
 
-![Banner](https://link-para-seu-banner.png)
-
 Eu sou Vitória Soder, uma desenvolvedora de front-end apaixonado por desenvolvimento web, inteligência artificial, UX e UI. Este é o meu cantinho onde guardo todos os meus projetos, iniciativas e experiências com código.
 
 ## 📈 Minhas Estatísticas GitHub
