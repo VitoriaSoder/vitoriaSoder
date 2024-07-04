@@ -3,11 +3,11 @@
 Eu sou Vitória Soder, uma desenvolvedora de front-end apaixonado por desenvolvimento web, inteligência artificial, UX e UI. Este é o meu cantinho onde guardo todos os meus projetos, iniciativas e experiências com código.
 
 ## 📈 Minhas Estatísticas GitHub
-
+<div>
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitoriaSoder&show_icons=true&theme=dracula)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaSoder&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ## 🚀 Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
