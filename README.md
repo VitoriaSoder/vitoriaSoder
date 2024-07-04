@@ -8,7 +8,7 @@ Eu sou Vitória Soder, uma desenvolvedora de front-end apaixonado por desenvolvi
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitoriaSoder&show_icons=true&theme=dracula)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaSoder&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Tecnologias e Ferramentas
 
