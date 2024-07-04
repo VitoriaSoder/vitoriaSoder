@@ -42,5 +42,5 @@ Se você quiser entrar em contato, sinta-se à vontade para me enviar uma mensag
 
 ---
 
-Obrigad@ por visitar o meu perfil! 😊
+Obrigada por visitar o meu perfil! 😊
 
