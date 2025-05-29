@@ -1,6 +1,5 @@
 # 🌟 Vitória Soder | Frontend Developer & Creative Problem Solver
 
----
 
 ## 🎯 Sobre Mim
 
@@ -79,16 +78,6 @@ const vitoria = {
 - 🎪 **Three.js** - Experiências 3D interativas
 - 🤖 **IA Generativa** - Integrando GPT em aplicações web
 - 🎨 **Design Systems** - Componentes escaláveis e consistentes
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VitoriaSoder&theme=tokyo-night&hide_border=true)
-  
-</div>
 
 ---
 
