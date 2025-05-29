@@ -8,7 +8,6 @@ Sou uma **desenvolvedora frontend** apaixonada por criar experiências digitais 
 
 ```javascript
 const vitoria = {
-  pronouns: "ela/dela",
   location: "Brasil 🇧🇷",
   focus: ["Frontend Development", "UX/UI Design", "AI Integration"],
   motto: "Código que conta histórias, design que emociona",
