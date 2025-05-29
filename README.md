@@ -19,27 +19,6 @@ Tenho uma base sólida em programação e experiência com tecnologias modernas.
 
 Também domino ferramentas como **Figma** e **Excel**, que me permitem criar interfaces intuitivas e explorar dados para gerar insights estratégicos. Acredito que a análise de dados é essencial para guiar decisões inteligentes e impulsionar resultados.
 
-<div align="center">
-
-```javascript
-class VitoriaSoder {
-  constructor() {
-    this.experience = "2 anos e 8 meses";
-    this.location = "Brasil 🇧🇷";
-    this.role = "Fullstack Developer & Software Engineering Student";
-    this.passions = ["Fullstack Development", "UX/UI Design", "Data Analysis"];
-    this.superpower = "Transformar problemas complexos em soluções elegantes";
-    this.mission = "Criar produtos reais e de impacto";
-    this.values = ["Excelência", "Inovação", "Colaboração"];
-  }
-  
-  getPhilosophy() {
-    return "Movida por desafios, sempre evoluindo e aprendendo! 🌟";
-  }
-}
-```
-
-</div>
 
 **Sou movida por desafios** e estou sempre buscando evoluir, aprender novas tecnologias e colaborar em projetos inovadores. Trabalho bem em equipe, valorizo boas práticas de desenvolvimento e tenho como missão **transformar ideias em produtos reais e de impacto**.
 
