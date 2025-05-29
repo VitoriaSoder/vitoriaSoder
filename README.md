@@ -1,72 +1,60 @@
-# 🌟 Vitória Soder | Frontend Developer & Creative Problem Solver
+# 👋 Olá! Seja bem-vindo(a) ao meu GitHub
 
-## 🎯 Sobre Mim
+Eu sou **Vitória Eduardo Soder**, desenvolvedora **full-stack** com foco em **front-end** e **experiência do usuário (UX/UI)**. Sou apaixonada por **tecnologia**, **design centrado no usuário** e pelo impacto que um bom código pode ter na vida das pessoas.
 
-Sou uma **desenvolvedora frontend** apaixonada por criar experiências digitais que fazem a diferença. Combino código limpo com design intuitivo, sempre buscando a interseção perfeita entre **funcionalidade** e **estética**.
+Atualmente sou desenvolvedora **pleno**, com mais de **2 anos de experiência** na área, cursando **Engenharia de Software com bolsa ProUni** e em constante evolução rumo ao nível sênior.
 
-```javascript
-const vitoria = {
-  location: "Brasil 🇧🇷",
-  focus: ["Frontend Development", "UX/UI Design", "AI Integration"],
-  motto: "Código que conta histórias, design que emociona",
-  currentlyLearning: ["Next.js", "TypeScript", "Three.js"],
-  funFact: "Acredito que cada pixel importa! ✨"
-};
-```
+---
 
-## 🚀 Arsenal Tecnológico
+## 💼 Sobre Mim
 
-### 🎨 Frontend & Design
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+- 👩‍💻 Desenvolvedora full-stack (ênfase em front-end e UX)
+- 🎓 Estudante de Engenharia de Software
+- 🧠 Interesse especial em IA, acessibilidade, usabilidade e design de interfaces
+- 🚀 Buscando sempre novos desafios para aprender e evoluir
 
-### ⚡ Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### 🛠️ Ferramentas & Produtividade
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🚀 Tecnologias & Ferramentas
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaSoder&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaSoder&layout=compact&langs_count=8&theme=radical"/>
+### Linguagens
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitoriaSoder&theme=radical"/>
+### Frameworks & Bibliotecas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="40" height="40" />
 </div>
 
-## 🌱 Atualmente Explorando
-
-🔥 **Next.js 14** - App Router e Server Components  
-🎯 **TypeScript** - Código mais robusto e seguro  
-🎪 **Three.js** - Experiências 3D interativas  
-🤖 **IA Generativa** - Integrando GPT em aplicações web  
-🎨 **Design Systems** - Componentes escaláveis e consistentes
-
-## 🤝 Vamos Conectar?
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriasoder)
-
+### Ferramentas & Outros
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />
 </div>
 
-<div align="center">
-  
-  ### 💫 "Código é poesia em movimento, design é a alma que a faz dançar"
-  
-  <img src="https://komarev.com/ghpvc/?username=VitoriaSoder&color=blueviolet&style=for-the-badge"/>
-  
-  ⭐ **Se você gostou dos meus projetos, deixe uma estrela!** ⭐
-  
+---
+
+## 📊 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=VitoriaSoder&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaSoder&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
 </div>
+
+---
+
+## 🤝 Vamos conversar?
+
+Se quiser trocar uma ideia, colaborar em projetos ou apenas bater um papo sobre tecnologia, me chama no LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-soder)
+
+---
+
+✨ Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e me seguir por aqui. 😊
