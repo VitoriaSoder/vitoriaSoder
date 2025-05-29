@@ -1,11 +1,5 @@
 # 🌟 Vitória Soder | Frontend Developer & Creative Problem Solver
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1!+Sou+a+Vit%C3%B3ria+%F0%9F%91%8B;Frontend+Developer+e+UX%2FUI+Enthusiast;Transformando+ideias+em+experi%C3%AAncias+digitais)
-  
-</div>
-
 ---
 
 ## 🎯 Sobre Mim
@@ -76,19 +70,6 @@ const vitoria = {
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitoriaSoder&theme=radical)
   
 </div>
-
----
-
-## 🎨 Projetos em Destaque
-
-<div align="center">
-
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=VitoriaSoder&repo=nome-do-projeto&theme=radical)](https://github.com/VitoriaSoder/nome-do-projeto)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=VitoriaSoder&repo=outro-projeto&theme=radical)](https://github.com/VitoriaSoder/outro-projeto)
-
-</div>
-
-> 💡 **Dica:** Confira meus repositórios para ver mais projetos e contribuições!
 
 ---
 
