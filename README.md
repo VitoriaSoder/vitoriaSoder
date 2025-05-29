@@ -1,6 +1,6 @@
 # <div align="center">🌟 Vitória Soder 🌟</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Creative+Soul;Transformando+ideias+em+experiencias+digitais;Apaixonada+por+UX%2FUI+e+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%26+Software+Engineer;2+anos+e+8+meses+de+experiencia;Transformando+ideias+em+solucoes+completas" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,27 +11,39 @@
 
 > **"Código é a minha linguagem, design é a minha paixão, e inovação é o meu combustível"**
 
-Sou uma **desenvolvedora frontend** que vive na interseção entre arte e tecnologia. Acredito que cada linha de código pode contar uma história e cada interface pode tocar corações. ✨
+**2 anos e 8 meses** transformando ideias em realidade digital! 🚀
+
+Sou **desenvolvedora fullstack** e estudante de **Engenharia de Software**, apaixonada por tecnologia, inovação e design de experiência do usuário (UX). Meu objetivo é criar soluções completas, que unam funcionalidade, performance e uma experiência incrível para o usuário.
+
+Tenho uma base sólida em programação e experiência com tecnologias modernas. Adoro atuar tanto no **front-end** quanto no **back-end**, entregando aplicações robustas, eficientes e visualmente atraentes.
+
+Também domino ferramentas como **Figma** e **Excel**, que me permitem criar interfaces intuitivas e explorar dados para gerar insights estratégicos. Acredito que a análise de dados é essencial para guiar decisões inteligentes e impulsionar resultados.
 
 <div align="center">
 
 ```javascript
 class VitoriaSoder {
   constructor() {
+    this.experience = "2 anos e 8 meses";
     this.location = "Brasil 🇧🇷";
-    this.passions = ["Frontend Magic", "UX/UI Wizardry", "AI Adventures"];
-    this.superpower = "Transformar cafés em código";
-    this.mission = "Criar experiências que encantam";
-    this.currentQuest = ["Next.js", "TypeScript", "Three.js"];
+    this.role = "Fullstack Developer & Software Engineering Student";
+    this.passions = ["Fullstack Development", "UX/UI Design", "Data Analysis"];
+    this.superpower = "Transformar problemas complexos em soluções elegantes";
+    this.mission = "Criar produtos reais e de impacto";
+    this.values = ["Excelência", "Inovação", "Colaboração"];
   }
   
-  getMotivation() {
-    return "Cada pixel importa, cada detalhe faz a diferença! 🚀";
+  getPhilosophy() {
+    return "Movida por desafios, sempre evoluindo e aprendendo! 🌟";
   }
 }
 ```
 
 </div>
+
+**Sou movida por desafios** e estou sempre buscando evoluir, aprender novas tecnologias e colaborar em projetos inovadores. Trabalho bem em equipe, valorizo boas práticas de desenvolvimento e tenho como missão **transformar ideias em produtos reais e de impacto**.
+
+Se você procura uma profissional **criativa, analítica e comprometida** com a excelência em tecnologia, estou pronta para contribuir e crescer junto com você! ✨
 
 ## 🎨 Meu Arsenal Mágico
 
@@ -71,6 +83,7 @@ class VitoriaSoder {
 - **Git** - Controle do tempo
 - **Figma** - Onde nascem os sonhos
 - **VS Code** - Meu lar digital
+- **Excel** - Transformando dados em insights
 
 </td>
 </tr>
@@ -105,11 +118,18 @@ class VitoriaSoder {
 
 </div>
 
+## 🚀 Projetos que Brilham
+
+<div align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VitoriaSoder&repo=projeto-incrivel&theme=synthwave&bg_color=0D1117&border_color=FF6B9D" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VitoriaSoder&repo=outro-projeto&theme=synthwave&bg_color=0D1117&border_color=FF6B9D" /></a>
+</div>
+
 ## 💫 Vamos Criar Juntos?
 
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/vit%C3%B3ria-soder)
-
 </div>
 
 <div align="center">
