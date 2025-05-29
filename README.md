@@ -118,12 +118,6 @@ Se você procura uma profissional **criativa, analítica e comprometida** com a 
 
 </div>
 
-## 🚀 Projetos que Brilham
-
-<div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VitoriaSoder&repo=projeto-incrivel&theme=synthwave&bg_color=0D1117&border_color=FF6B9D" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VitoriaSoder&repo=outro-projeto&theme=synthwave&bg_color=0D1117&border_color=FF6B9D" /></a>
-</div>
 
 ## 💫 Vamos Criar Juntos?
 
