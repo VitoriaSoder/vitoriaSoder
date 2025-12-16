@@ -11,7 +11,7 @@
 
 > **"Código é a minha linguagem, design é a minha paixão, e inovação é o meu combustível"**
 
-**2 anos e 8 meses** transformando ideias em realidade digital! 🚀
+**3 anos** transformando ideias em realidade digital! 🚀
 
 Sou **desenvolvedora fullstack** e estudante de **Engenharia de Software**, apaixonada por tecnologia, inovação e design de experiência do usuário (UX). Meu objetivo é criar soluções completas, que unam funcionalidade, performance e uma experiência incrível para o usuário.
 
