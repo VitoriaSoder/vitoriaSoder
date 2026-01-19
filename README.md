@@ -12,7 +12,7 @@ Santa Cruz Do Sul, RS • Brasil
 
 ## 👋 Sobre mim
 
-Desenvolvedora fullstack com **2 anos e 8 meses de experiência** criando soluções web completas e eficientes. Apaixonada por transformar ideias em produtos digitais de impacto, combinando código limpo, boas práticas e design centrado no usuário.
+Desenvolvedora fullstack com **3 anos de experiência** criando soluções web completas e eficientes. Apaixonada por transformar ideias em produtos digitais de impacto, combinando código limpo, boas práticas e design centrado no usuário.
 
 Atualmente cursando Engenharia de Software, busco constantemente evoluir minhas habilidades técnicas e contribuir com projetos inovadores que façam a diferença.
 
@@ -94,7 +94,7 @@ const vitoria = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaSoder&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=4F46E5&text_color=666666"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaSoder&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666"/>
 </div>
 
@@ -129,7 +129,7 @@ Breve descrição do projeto e seu impacto. Tecnologias principais utilizadas.
 
 ## 💼 Experiência Profissional
 
-**2+ anos** desenvolvendo aplicações web fullstack, focando em:
+**3+ anos** desenvolvendo aplicações web fullstack, focando em:
 - ✅ Desenvolvimento de interfaces responsivas e acessíveis
 - ✅ Implementação de APIs e integração com bancos de dados
 - ✅ Colaboração em equipes ágeis
