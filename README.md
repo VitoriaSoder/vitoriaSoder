@@ -1,6 +1,6 @@
 # Vitória Soder
 
-**Desenvolvedora Fullstack** | Estudante de Engenharia de Software | Chapecó, SC 🇧🇷
+**Desenvolvedora Fullstack** | Estudante de Engenharia de Software | Santa Cruz do Sul, RS 🇧🇷
 
 Transformando ideias em soluções digitais há 2 anos e 8 meses. Apaixonada por criar experiências que unem funcionalidade, design e performance.
 
