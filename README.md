@@ -142,7 +142,7 @@ Breve descrição do projeto e seu impacto. Tecnologias principais utilizadas.
 Estou sempre aberta a novos desafios e oportunidades de colaboração!
 
 - 💼 LinkedIn: [Vitória Soder](https://www.linkedin.com/in/vit%C3%B3ria-soder)
-- 📧 Email: seu-email@exemplo.com
+- 📧 Email: vitoriasoderoficial@gmail.com
 - 🌐 Portfolio: [em breve]
 
 ---
