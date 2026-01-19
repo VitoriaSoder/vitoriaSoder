@@ -5,8 +5,6 @@
 Santa Cruz Do Sul, RS • Brasil
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-soder)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 ---
 
@@ -102,20 +100,45 @@ const vitoria = {
 
 ## 🚀 Projetos em Destaque
 
-### 🎯 [Nome do Projeto 1](#)
-Breve descrição do projeto e seu impacto. Tecnologias principais utilizadas.
+### 🐉 [Dragon’s Contacts](https://github.com/VitoriaSoder/dragons-contacts)
 
-**Tech Stack:** `React` `Python` `PostgreSQL`
+Aplicação web para **gerenciamento de contatos**, com foco em organização, usabilidade e tipagem segura. O projeto utiliza boas práticas de desenvolvimento frontend moderno, garantindo escalabilidade e manutenção facilitada.
 
-### 🎨 [Nome do Projeto 2](#)
-Breve descrição do projeto e seu impacto. Tecnologias principais utilizadas.
+**Destaques:**
 
-**Tech Stack:** `JavaScript` `Tailwind CSS` `API Integration`
+* CRUD completo de contatos
+* Componentização e organização de código
+* Tipagem forte para maior confiabilidade
 
-### 💡 [Nome do Projeto 3](#)
-Breve descrição do projeto e seu impacto. Tecnologias principais utilizadas.
+**Tech Stack:** `TypeScript` `JavaScript` `Frontend`
 
-**Tech Stack:** `React` `Material-UI` `Data Visualization`
+---
+
+### 🌿 [Produtos Naturais](https://github.com/VitoriaSoder/produtos-naturais)
+
+Projeto frontend voltado para a **apresentação de produtos naturais**, com layout responsivo e foco em experiência do usuário. Ideal para pequenos negócios ou catálogos online.
+
+**Destaques:**
+
+* Estrutura semântica em HTML
+* Estilização responsiva com CSS
+* Interatividade com JavaScript
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 💰 [Cofrinho Java](https://github.com/VitoriaSoder/CofrinhoJava)
+
+Aplicação desenvolvida em **Java** para simular o funcionamento de um cofrinho virtual, permitindo adicionar, remover e calcular valores armazenados. Projeto focado em **lógica de programação e orientação a objetos**.
+
+**Destaques:**
+
+* Uso de conceitos de POO
+* Estrutura clara e organizada
+* Ideal para prática de fundamentos em Java
+
+**Tech Stack:** `Java`
 
 ---
 
