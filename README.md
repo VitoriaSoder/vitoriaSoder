@@ -2,13 +2,15 @@
 
 # Vitória Soder
 
-**Desenvolvedora Fullstack · React · Python · PostgreSQL**
+**Desenvolvedora Front-end & Full Stack**
+
+React · Next.js · TypeScript · Node.js
 
 Santa Cruz do Sul, RS — Brasil
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-design.soderv32.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-soder)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoriasoderoficial@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitoriaSoder)
 
 </div>
 
@@ -16,16 +18,19 @@ Santa Cruz do Sul, RS — Brasil
 
 ## Sobre mim
 
-Desenvolvedora fullstack com **3 anos de experiência** construindo aplicações web com foco em performance, usabilidade e código manutenível. Trabalho com **React** no frontend e **Python + PostgreSQL** no backend, da prototipação à entrega em produção.
+Desenvolvedora full stack com **3+ anos de experiência** na **SellFlux**, atuando no desenvolvimento de aplicações web escaláveis com **React, Next.js, TypeScript e Node.js**. Trabalho no ciclo completo — da análise de requisitos e prototipação em Figma até implementação, testes com Jest e deploy.
 
-Atualmente cursando **Engenharia de Software**, com interesse em arquitetura de sistemas, design de interfaces e automação de processos.
+Tenho experiência em áreas críticas como segmentação de leads, fluxos de automação, ferramentas internas e integrações com APIs externas (incluindo WhatsApp oficial). Estudante de **Engenharia de Software**, focada em código limpo, performance e experiência do usuário.
 
 ```typescript
 const vitoria = {
-  stack: ["React", "TypeScript", "Python", "PostgreSQL"],
-  aprendendo: ["Next.js 14", "TypeScript avançado", "UX Design"],
-  idiomas: ["Português (nativo)", "Inglês (intermediário)"],
-  foco: "Construir produtos web completos, do banco de dados à interface"
+  cargo: "Desenvolvedora Full Stack Pleno",
+  empresa: "SellFlux",
+  stack: ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL"],
+  testes: ["Jest", "Testes unitários", "Testes de integração"],
+  ferramentas: ["Redux", "Zustand", "Figma", "Git", "Postman"],
+  metodologia: "Scrum",
+  idiomas: ["Português (nativo)", "Inglês (intermediário)"]
 };
 ```
 
@@ -41,14 +46,15 @@ const vitoria = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -59,19 +65,20 @@ const vitoria = {
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
-### Ferramentas
+### Testes & Ferramentas
 
 <div align="center">
 
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -84,114 +91,109 @@ const vitoria = {
 
 ## Projetos em destaque
 
-> Repositórios que melhor representam meu trabalho. Cada um tem README próprio com instruções de setup.
+> Cada repositório tem README próprio com instruções de setup e detalhes técnicos.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐉 [Dragon's Contacts](https://github.com/VitoriaSoder/dragons-contacts)
+### 🔧 [Page Generator](https://github.com/VitoriaSoder/Page-Generator)
 
-Sistema de **gerenciamento de contatos** com CRUD completo, componentização e tipagem forte.
+Editor visual **drag-and-drop** para criar landing pages sem código. Canvas interativo com painel de componentes, camadas, propriedades editáveis e preview responsivo (desktop, tablet, mobile).
 
-**O que demonstra:** arquitetura de componentes, gerenciamento de estado, boas práticas de organização de código frontend.
+**Destaques:**
+- 20+ componentes organizados por categoria
+- Estado global com Zustand
+- Atalhos de teclado, undo/redo
+- Tema claro/escuro
 
-`TypeScript` `React` `Componentização`
+`Next.js 16` `React 19` `TypeScript` `Tailwind` `Zustand` `Radix UI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌿 [Produtos Naturais](https://github.com/VitoriaSoder/produtos-naturais)
+### 🐉 [Dragon's Contacts](https://github.com/VitoriaSoder/dragons-contacts)
 
-Catálogo responsivo de produtos naturais com HTML semântico e layout adaptável a qualquer dispositivo.
+Sistema de **gerenciamento de contatos** com CRUD completo, busca avançada e validação de formulários. Arquitetura componentizada com tipagem estática.
 
-**O que demonstra:** fundamentos sólidos de HTML/CSS, design responsivo sem frameworks, acessibilidade.
+**Destaques:**
+- Hooks customizados para estado
+- Validação de formulários
+- Componentização escalável
 
-`HTML` `CSS` `JavaScript`
+`TypeScript` `React` `Hooks`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [Cofrinho Java](https://github.com/VitoriaSoder/CofrinhoJava)
+### 🌿 [Produtos Naturais](https://github.com/VitoriaSoder/produtos-naturais)
 
-Simulador de cofrinho virtual com operações de adição, remoção e cálculo de valores. Projeto focado em POO.
+Catálogo responsivo de produtos naturais com HTML5 semântico, CSS3 moderno (Grid, Flexbox) e JavaScript. Design mobile-first com foco em acessibilidade.
 
-**O que demonstra:** orientação a objetos, encapsulamento, estrutura de classes em Java.
+**Destaques:**
+- Layout responsivo sem frameworks
+- HTML semântico e acessível
+- Performance otimizada
 
-`Java` `POO`
+`HTML5` `CSS3` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 [Curso Python](https://github.com/VitoriaSoder/curso-python)
+### 🌐 [Portfolio](https://portfolio-design.soderv32.workers.dev/)
 
-Desafios práticos de Python cobrindo controle de fluxo, operadores lógicos e validação de dados.
+Meu portfolio profissional com detalhes sobre experiência, processo de trabalho, projetos e stack técnica. Deploy na Cloudflare Workers.
 
-**O que demonstra:** lógica de programação, tratamento de entrada do usuário, estruturas condicionais.
+**Destaques:**
+- Design moderno e responsivo
+- Animações fluidas
+- SEO otimizado
 
-`Python`
+`Next.js` `TypeScript` `Tailwind` `Cloudflare`
+
+[🔗 Ver online](https://portfolio-design.soderv32.workers.dev/)
 
 </td>
 </tr>
 </table>
 
-<!-- 
-  💡 NOTA PARA VOCÊ, VITÓRIA:
-  
-  Quando criar projetos mais robustos (React + Python + PostgreSQL),
-  substitua os projetos acima pelos novos. Priorize projetos que tenham:
-  
-  1. Deploy online (Vercel, Railway, Render)
-  2. Screenshot ou GIF no README do repositório
-  3. Backend + Frontend juntos (prova do fullstack)
-  
-  Exemplo de projeto que impressiona:
-  - Dashboard de gestão com autenticação (React + FastAPI + PostgreSQL)
-  - API REST com documentação Swagger + frontend consumindo
-  - Clone simplificado de um produto real (Trello, Notion, etc.)
--->
+---
+
+## Experiência profissional
+
+### Desenvolvedora Full Stack Pleno — SellFlux
+
+📍 Santa Cruz do Sul, RS · Out/2022 – Atual
+
+- Arquitetura e desenvolvimento de funcionalidades críticas para aplicações web escaláveis
+- Desenvolvimento em áreas de **segmentação de leads**, **fluxos de automação** e **ferramentas internas**
+- Integração com APIs externas, incluindo **WhatsApp oficial**
+- Refatoração de sistemas legados para arquiteturas modernas (React, Next.js, TypeScript, Redux)
+- Implementação de **APIs RESTful** com Node.js e integração com PostgreSQL
+- Testes unitários e de integração com **Jest**
+- Liderança técnica em **code reviews** e garantia de boas práticas
+- Metodologia **Scrum** com entregas em sprints e foco em excelência técnica
 
 ---
 
-## Experiência
+## Conhecimentos avançados
 
-**Desenvolvedora Fullstack** · 3+ anos
-
-- Desenvolvimento de interfaces responsivas com **React**, garantindo compatibilidade cross-browser e acessibilidade
-- Construção de APIs e integração com **PostgreSQL** para persistência de dados
-- Colaboração em equipes ágeis com entregas em sprints de 2 semanas
-- Prototipação de interfaces no **Figma** antes da implementação, reduzindo retrabalho
-
-<!-- 
-  💡 NOTA PARA VOCÊ, VITÓRIA:
-  
-  Se puder, adicione o nome da empresa (ou setor) e resultados concretos:
-  
-  **Desenvolvedora Fullstack** @ Empresa XYZ (2022 – presente)
-  - Desenvolvi o frontend de sistema usado por +200 clientes
-  - Reduzi tempo de carregamento da aplicação em 40% com lazy loading
-  - Implementei integração com API de pagamento processando X transações/mês
-  
-  Números e contexto são o que separam um bom perfil de um perfil genérico.
--->
+<table>
+<tr>
+<td width="25%" align="center"><strong>Arquitetura</strong><br/><sub>SOLID · Design Patterns · Clean Code · REST APIs</sub></td>
+<td width="25%" align="center"><strong>React Avançado</strong><br/><sub>Hooks · Redux · React.memo · Lazy Loading · Code Splitting</sub></td>
+<td width="25%" align="center"><strong>Testes</strong><br/><sub>Jest · Unitários · Integração · TDD</sub></td>
+<td width="25%" align="center"><strong>Performance</strong><br/><sub>useMemo · useCallback · Otimização de queries · Cache</sub></td>
+</tr>
+</table>
 
 ---
 
 ## Formação
 
 🎓 **Engenharia de Software** — em andamento
-
----
-
-## Aprendendo agora
-
-| Tecnologia | O que estou construindo |
-|---|---|
-| **Next.js 14** | App Router, Server Components, Server Actions |
-| **TypeScript** | Tipagem avançada, generics, utility types |
-| **UX Design** | Pesquisa com usuário, wireframes, design systems |
 
 ---
 
@@ -216,6 +218,7 @@ Desafios práticos de Python cobrindo controle de fluxo, operadores lógicos e v
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/-vitoria.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-design.soderv32.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/-Vitória_Soder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-soder)
 [![Email](https://img.shields.io/badge/-vitoriasoderoficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoriasoderoficial@gmail.com)
 
