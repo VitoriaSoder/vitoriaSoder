@@ -197,23 +197,6 @@ Meu portfolio profissional com detalhes sobre experiência, processo de trabalho
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitoriaSoder&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=555555&icon_color=4F46E5&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaSoder&layout=compact&langs_count=7&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=555555" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VitoriaSoder&hide_border=true&background=ffffff&ring=4F46E5&fire=4F46E5&currStreakLabel=1a1a1a&sideLabels=555555&dates=999999" />
-
-</div>
-
----
-
 ## Contato
 
 <div align="center">
